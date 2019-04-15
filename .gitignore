@@ -253,4 +253,4 @@ paket-files/
 *.sln.iml
 
 node_modules
-./scripts/conv-istanbul/temp
+temp
