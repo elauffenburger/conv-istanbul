@@ -1,0 +1,15 @@
+{
+  "name": "conv-istanbul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conv-istanbul.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lcov-parse": "^1.0.0"
+  }
+}

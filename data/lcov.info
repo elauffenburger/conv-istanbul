@@ -1,0 +1,2114 @@
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Program.cs
+FN:10,System.Void MenuMetadata.Api.Program::Main(System.String[])
+FNDA:0,System.Void MenuMetadata.Api.Program::Main(System.String[])
+DA:11,0
+DA:12,0
+DA:13,0
+FN:15,Microsoft.AspNetCore.Hosting.IWebHost MenuMetadata.Api.Program::BuildWebHost(System.String[])
+FNDA:0,Microsoft.AspNetCore.Hosting.IWebHost MenuMetadata.Api.Program::BuildWebHost(System.String[])
+DA:16,0
+DA:17,0
+DA:18,0
+LF:6
+LH:0
+BRF:0
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Startup.cs
+FN:51,Microsoft.Extensions.Configuration.IConfiguration MenuMetadata.Api.Startup::get_Configuration()
+FNDA:12,Microsoft.Extensions.Configuration.IConfiguration MenuMetadata.Api.Startup::get_Configuration()
+DA:52,12
+FN:55,System.Void MenuMetadata.Api.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+FNDA:3,System.Void MenuMetadata.Api.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+DA:56,3
+DA:58,3
+DA:59,3
+DA:62,3
+DA:63,3
+DA:65,3
+DA:66,3
+DA:67,3
+DA:68,3
+DA:70,3
+DA:73,3
+DA:74,3
+DA:77,3
+DA:78,3
+DA:79,3
+DA:80,3
+DA:81,3
+DA:82,3
+DA:83,3
+DA:84,3
+DA:85,3
+DA:87,3
+DA:88,3
+DA:89,5
+DA:90,5
+DA:91,5
+DA:92,5
+DA:93,3
+DA:95,3
+DA:96,3
+DA:97,3
+DA:98,3
+DA:99,3
+DA:100,3
+DA:101,3
+DA:102,3
+DA:103,3
+DA:104,3
+DA:105,3
+DA:106,3
+DA:107,3
+DA:108,3
+DA:109,3
+DA:110,3
+DA:111,3
+DA:112,3
+DA:113,3
+DA:114,3
+DA:115,3
+DA:116,3
+DA:117,3
+DA:118,3
+DA:119,3
+DA:122,3
+DA:123,3
+BRDA:77,238,0,1
+BRDA:77,238,1,3
+BRDA:95,301,0,1
+BRDA:95,301,1,3
+FN:125,System.Void MenuMetadata.Api.Startup::InitializeApplicationIoc(SimpleInjector.Container,MenuMetadata.Common.Configuration.CosmosDbConfig,MenuMetadata.Common.Configuration.RedisConfig,System.String)
+FNDA:0,System.Void MenuMetadata.Api.Startup::InitializeApplicationIoc(SimpleInjector.Container,MenuMetadata.Common.Configuration.CosmosDbConfig,MenuMetadata.Common.Configuration.RedisConfig,System.String)
+DA:126,0
+DA:127,0
+DA:128,0
+DA:129,0
+DA:130,0
+FN:132,System.Void MenuMetadata.Api.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment,Microsoft.AspNetCore.Hosting.IApplicationLifetime)
+FNDA:2,System.Void MenuMetadata.Api.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment,Microsoft.AspNetCore.Hosting.IApplicationLifetime)
+DA:133,2
+DA:134,2
+DA:135,2
+DA:136,2
+DA:137,2
+DA:140,2
+DA:141,2
+DA:143,2
+DA:144,2
+DA:145,2
+DA:148,2
+DA:151,2
+DA:152,2
+DA:153,4
+DA:154,4
+DA:155,4
+DA:158,2
+DA:159,1
+BRDA:134,9,0,2
+BRDA:134,9,1,2
+BRDA:152,113,0,1
+BRDA:152,113,1,2
+FN:161,System.Void MenuMetadata.Api.Startup::WireupSimpleInjector(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+FNDA:3,System.Void MenuMetadata.Api.Startup::WireupSimpleInjector(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+DA:162,3
+DA:163,3
+DA:165,3
+DA:166,3
+DA:168,3
+DA:169,3
+DA:170,3
+FN:172,System.Void MenuMetadata.Api.Startup::InitializeService(System.IServiceProvider)
+FNDA:2,System.Void MenuMetadata.Api.Startup::InitializeService(System.IServiceProvider)
+DA:173,2
+DA:175,2
+DA:177,2
+DA:178,2
+DA:179,2
+DA:180,2
+DA:183,2
+DA:187,2
+DA:188,2
+DA:190,1
+DA:191,1
+DA:192,1
+DA:193,1
+DA:194,1
+DA:196,1
+DA:197,1
+DA:201,1
+DA:202,1
+FN:40,System.Void MenuMetadata.Api.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)
+FNDA:3,System.Void MenuMetadata.Api.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)
+DA:41,3
+DA:47,3
+DA:48,3
+DA:49,3
+DA:50,3
+FN:43,System.Void MenuMetadata.Api.Startup::.cctor()
+FNDA:2,System.Void MenuMetadata.Api.Startup::.cctor()
+DA:44,2
+DA:45,2
+FN:206,Chipotle.Enterprise.Security.Jwt.JwtSettings MenuMetadata.Api.Startup/<>c__DisplayClass11_0::<InitializeJwtSecurityAsync>b__0()
+FNDA:0,Chipotle.Enterprise.Security.Jwt.JwtSettings MenuMetadata.Api.Startup/<>c__DisplayClass11_0::<InitializeJwtSecurityAsync>b__0()
+DA:207,0
+DA:208,0
+DA:209,0
+DA:210,0
+DA:211,0
+DA:212,0
+DA:213,0
+FN:204,System.Void MenuMetadata.Api.Startup/<InitializeJwtSecurityAsync>d__11::MoveNext()
+FNDA:0,System.Void MenuMetadata.Api.Startup/<InitializeJwtSecurityAsync>d__11::MoveNext()
+DA:205,0
+DA:206,0
+DA:214,0
+BRDA:207,88,0,0
+BRDA:207,88,1,0
+LF:121
+LH:106
+BRF:12
+BRH:8
+FNF:10
+FNH:7
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Swagger\AuthorizationOperationFilter.cs
+FN:21,System.Void MenuMetadata.Api.Swagger.AuthorizationOperationFilter::Apply(Swashbuckle.AspNetCore.Swagger.Operation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)
+FNDA:0,System.Void MenuMetadata.Api.Swagger.AuthorizationOperationFilter::Apply(Swashbuckle.AspNetCore.Swagger.Operation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:27,0
+DA:28,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:41,0
+BRDA:24,25,0,0
+BRDA:24,25,1,0
+BRDA:25,68,0,0
+BRDA:25,68,1,0
+BRDA:27,112,0,0
+BRDA:27,133,0,0
+BRDA:27,133,1,0
+BRDA:27,112,1,0
+BRDA:30,168,0,0
+BRDA:30,171,0,0
+BRDA:30,171,1,0
+BRDA:30,168,1,0
+BRDA:31,191,0,0
+BRDA:31,191,1,0
+FN:15,System.Void MenuMetadata.Api.Swagger.AuthorizationOperationFilter::.ctor(System.String)
+FNDA:0,System.Void MenuMetadata.Api.Swagger.AuthorizationOperationFilter::.ctor(System.String)
+DA:16,0
+DA:17,0
+DA:18,0
+DA:19,0
+LF:22
+LH:0
+BRF:14
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Controllers\HealthController.cs
+FN:43,System.String MenuMetadata.Api.Controllers.HealthController::GetStatusMessage()
+FNDA:2,System.String MenuMetadata.Api.Controllers.HealthController::GetStatusMessage()
+DA:44,2
+DA:46,2
+DA:47,2
+FN:17,System.Void MenuMetadata.Api.Controllers.HealthController::.ctor(Chipotle.Core.Logging.IObjectLogger)
+FNDA:1,System.Void MenuMetadata.Api.Controllers.HealthController::.ctor(Chipotle.Core.Logging.IObjectLogger)
+DA:18,1
+DA:19,1
+DA:20,1
+DA:21,1
+FN:29,System.Void MenuMetadata.Api.Controllers.HealthController/<GetAsync>d__2::MoveNext()
+FNDA:1,System.Void MenuMetadata.Api.Controllers.HealthController/<GetAsync>d__2::MoveNext()
+DA:30,1
+DA:31,1
+DA:32,1
+DA:33,1
+DA:34,1
+DA:36,1
+DA:37,1
+DA:38,1
+DA:39,1
+DA:40,1
+DA:41,1
+BRDA:31,33,0,1
+BRDA:33,86,1,1
+BRDA:31,33,1,1
+LF:18
+LH:18
+BRF:3
+BRH:3
+FNF:3
+FNH:3
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Controllers\MenuItemGroupController.cs
+FN:27,System.Void MenuMetadata.Api.Controllers.MenuItemGroupController::.ctor(MenuMetadata.Service.Interfaces.IMenuItemGroupService,MenuMetadata.Common.Interfaces.IAppRequestInfo)
+FNDA:3,System.Void MenuMetadata.Api.Controllers.MenuItemGroupController::.ctor(MenuMetadata.Service.Interfaces.IMenuItemGroupService,MenuMetadata.Common.Interfaces.IAppRequestInfo)
+DA:28,3
+DA:29,3
+DA:30,3
+DA:31,3
+DA:32,3
+FN:40,System.Void MenuMetadata.Api.Controllers.MenuItemGroupController/<GetAllMenuItemGroupsAsync>d__3::MoveNext()
+FNDA:3,System.Void MenuMetadata.Api.Controllers.MenuItemGroupController/<GetAllMenuItemGroupsAsync>d__3::MoveNext()
+DA:41,3
+DA:42,3
+DA:43,3
+DA:44,3
+BRDA:42,50,1,3
+FN:53,System.Void MenuMetadata.Api.Controllers.MenuItemGroupController/<CreateMenuItemGroupAsync>d__4::MoveNext()
+FNDA:1,System.Void MenuMetadata.Api.Controllers.MenuItemGroupController/<CreateMenuItemGroupAsync>d__4::MoveNext()
+DA:54,1
+DA:55,1
+DA:56,1
+DA:57,1
+BRDA:55,50,1,1
+FN:66,System.Void MenuMetadata.Api.Controllers.MenuItemGroupController/<UpdateMenuItemGroupAsync>d__5::MoveNext()
+FNDA:1,System.Void MenuMetadata.Api.Controllers.MenuItemGroupController/<UpdateMenuItemGroupAsync>d__5::MoveNext()
+DA:67,1
+DA:68,1
+DA:69,1
+DA:70,1
+BRDA:68,50,1,1
+LF:17
+LH:17
+BRF:3
+BRH:3
+FNF:4
+FNH:4
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Controllers\MenuItemMetadataController.cs
+FN:24,System.Void MenuMetadata.Api.Controllers.MenuItemMetadataController::.ctor(MenuMetadata.Service.Interfaces.IMenuItemMetadataService,MenuMetadata.Common.Interfaces.IJwtRequestInfo)
+FNDA:3,System.Void MenuMetadata.Api.Controllers.MenuItemMetadataController::.ctor(MenuMetadata.Service.Interfaces.IMenuItemMetadataService,MenuMetadata.Common.Interfaces.IJwtRequestInfo)
+DA:25,3
+DA:26,3
+DA:27,3
+DA:28,3
+DA:29,3
+FN:37,System.Void MenuMetadata.Api.Controllers.MenuItemMetadataController/<GetAllMenuItemMetadataAsync>d__3::MoveNext()
+FNDA:2,System.Void MenuMetadata.Api.Controllers.MenuItemMetadataController/<GetAllMenuItemMetadataAsync>d__3::MoveNext()
+DA:38,2
+DA:39,2
+DA:40,2
+DA:41,2
+BRDA:39,50,1,2
+FN:50,System.Void MenuMetadata.Api.Controllers.MenuItemMetadataController/<CreateMenuItemMetadataAsync>d__4::MoveNext()
+FNDA:1,System.Void MenuMetadata.Api.Controllers.MenuItemMetadataController/<CreateMenuItemMetadataAsync>d__4::MoveNext()
+DA:51,1
+DA:52,1
+DA:53,1
+DA:54,1
+BRDA:52,50,1,1
+FN:63,System.Void MenuMetadata.Api.Controllers.MenuItemMetadataController/<UpdateMenuItemMetadataAsync>d__5::MoveNext()
+FNDA:1,System.Void MenuMetadata.Api.Controllers.MenuItemMetadataController/<UpdateMenuItemMetadataAsync>d__5::MoveNext()
+DA:64,1
+DA:65,1
+DA:66,1
+DA:67,1
+BRDA:65,50,1,1
+LF:17
+LH:17
+BRF:3
+BRH:3
+FNF:4
+FNH:4
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Controllers\MenuMetadataController.cs
+FN:26,System.Void MenuMetadata.Api.Controllers.MenuMetadataController::.ctor(MenuMetadata.Service.Interfaces.IMenuMetadataService,MenuMetadata.Common.Interfaces.IAppRequestInfo)
+FNDA:0,System.Void MenuMetadata.Api.Controllers.MenuMetadataController::.ctor(MenuMetadata.Service.Interfaces.IMenuMetadataService,MenuMetadata.Common.Interfaces.IAppRequestInfo)
+DA:27,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+FN:39,System.Void MenuMetadata.Api.Controllers.MenuMetadataController/<GetMenuMetadataForChannelAsync>d__3::MoveNext()
+FNDA:0,System.Void MenuMetadata.Api.Controllers.MenuMetadataController/<GetMenuMetadataForChannelAsync>d__3::MoveNext()
+DA:40,0
+DA:41,0
+DA:42,0
+DA:43,0
+BRDA:41,50,0,0
+BRDA:41,50,1,0
+LF:9
+LH:0
+BRF:2
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Controllers\TopLevelMenuController.cs
+FN:27,System.Void MenuMetadata.Api.Controllers.TopLevelMenuController::.ctor(MenuMetadata.Service.Interfaces.ITopLevelMenuService,MenuMetadata.Common.Interfaces.IAppRequestInfo)
+FNDA:0,System.Void MenuMetadata.Api.Controllers.TopLevelMenuController::.ctor(MenuMetadata.Service.Interfaces.ITopLevelMenuService,MenuMetadata.Common.Interfaces.IAppRequestInfo)
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:32,0
+FN:40,System.Void MenuMetadata.Api.Controllers.TopLevelMenuController/<GetTopLevelMenusAsync>d__3::MoveNext()
+FNDA:0,System.Void MenuMetadata.Api.Controllers.TopLevelMenuController/<GetTopLevelMenusAsync>d__3::MoveNext()
+DA:41,0
+DA:42,0
+DA:43,0
+BRDA:42,44,0,0
+BRDA:42,44,1,0
+FN:56,System.Void MenuMetadata.Api.Controllers.TopLevelMenuController/<CreateTopLevelMenuAsync>d__4::MoveNext()
+FNDA:0,System.Void MenuMetadata.Api.Controllers.TopLevelMenuController/<CreateTopLevelMenuAsync>d__4::MoveNext()
+DA:57,0
+DA:58,0
+DA:59,0
+DA:60,0
+BRDA:58,50,0,0
+BRDA:58,50,1,0
+FN:71,System.Void MenuMetadata.Api.Controllers.TopLevelMenuController/<UpdateTopLevelMenuAsync>d__5::MoveNext()
+FNDA:0,System.Void MenuMetadata.Api.Controllers.TopLevelMenuController/<UpdateTopLevelMenuAsync>d__5::MoveNext()
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+BRDA:73,50,0,0
+BRDA:73,50,1,0
+LF:16
+LH:0
+BRF:6
+BRH:0
+FNF:4
+FNH:0
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Configuration\JwtConfig.cs
+FN:11,System.String MenuMetadata.Api.Configuration.JwtConfig::get_CustomerAuthUrl()
+FNDA:7,System.String MenuMetadata.Api.Configuration.JwtConfig::get_CustomerAuthUrl()
+DA:12,7
+FN:15,System.String MenuMetadata.Api.Configuration.JwtConfig::get_CustomerAuthSubscriptionKey()
+FNDA:7,System.String MenuMetadata.Api.Configuration.JwtConfig::get_CustomerAuthSubscriptionKey()
+DA:16,7
+FN:19,System.String MenuMetadata.Api.Configuration.JwtConfig::get_CustomerAuthUsername()
+FNDA:7,System.String MenuMetadata.Api.Configuration.JwtConfig::get_CustomerAuthUsername()
+DA:20,7
+FN:23,System.String MenuMetadata.Api.Configuration.JwtConfig::get_CustomerAuthPassword()
+FNDA:7,System.String MenuMetadata.Api.Configuration.JwtConfig::get_CustomerAuthPassword()
+DA:24,7
+LF:4
+LH:4
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Api\Configuration\LoggingConfig.cs
+FN:10,System.String MenuMetadata.Api.Configuration.LoggingConfig::get_LogLevel()
+FNDA:9,System.String MenuMetadata.Api.Configuration.LoggingConfig::get_LogLevel()
+DA:11,9
+FN:14,System.String MenuMetadata.Api.Configuration.LoggingConfig::get_EnvironmentToken()
+FNDA:9,System.String MenuMetadata.Api.Configuration.LoggingConfig::get_EnvironmentToken()
+DA:15,9
+FN:18,System.String MenuMetadata.Api.Configuration.LoggingConfig::get_EventHubConnectionString()
+FNDA:9,System.String MenuMetadata.Api.Configuration.LoggingConfig::get_EventHubConnectionString()
+DA:19,9
+LF:3
+LH:3
+BRF:0
+BRH:0
+FNF:3
+FNH:3
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Common\Implementation\JwtInfo.cs
+FN:4,System.String MenuMetadata.Common.Implementation.JwtInfo::get_Jwt()
+FNDA:1,System.String MenuMetadata.Common.Implementation.JwtInfo::get_Jwt()
+DA:5,1
+FN:5,System.Nullable`1<System.Int32> MenuMetadata.Common.Implementation.JwtInfo::get_CustomerId()
+FNDA:1,System.Nullable`1<System.Int32> MenuMetadata.Common.Implementation.JwtInfo::get_CustomerId()
+DA:6,1
+FN:6,System.String MenuMetadata.Common.Implementation.JwtInfo::get_Email()
+FNDA:15,System.String MenuMetadata.Common.Implementation.JwtInfo::get_Email()
+DA:7,15
+FN:7,System.String MenuMetadata.Common.Implementation.JwtInfo::get_Role()
+FNDA:1,System.String MenuMetadata.Common.Implementation.JwtInfo::get_Role()
+DA:8,1
+FN:8,System.Nullable`1<System.Boolean> MenuMetadata.Common.Implementation.JwtInfo::get_IsGuest()
+FNDA:1,System.Nullable`1<System.Boolean> MenuMetadata.Common.Implementation.JwtInfo::get_IsGuest()
+DA:9,1
+FN:9,System.Nullable`1<System.Boolean> MenuMetadata.Common.Implementation.JwtInfo::get_IsAnonymous()
+FNDA:1,System.Nullable`1<System.Boolean> MenuMetadata.Common.Implementation.JwtInfo::get_IsAnonymous()
+DA:10,1
+LF:6
+LH:6
+BRF:0
+BRH:0
+FNF:6
+FNH:6
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Common\Implementation\JwtRequestInfo.cs
+FN:6,MenuMetadata.Common.Implementation.JwtInfo MenuMetadata.Common.Implementation.JwtRequestInfo::get_JwtInfo()
+FNDA:22,MenuMetadata.Common.Implementation.JwtInfo MenuMetadata.Common.Implementation.JwtRequestInfo::get_JwtInfo()
+DA:7,22
+LF:1
+LH:1
+BRF:0
+BRH:0
+FNF:1
+FNH:1
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Common\Extensions\ValidationExtensions.cs
+FN:9,Core.Common.Implementation.ValidationResult MenuMetadata.Common.Extensions.ValidationExtensions::ToChipotleValidationResult(FluentValidation.Results.ValidationResult)
+FNDA:9,Core.Common.Implementation.ValidationResult MenuMetadata.Common.Extensions.ValidationExtensions::ToChipotleValidationResult(FluentValidation.Results.ValidationResult)
+DA:10,9
+DA:11,9
+DA:13,39
+DA:14,6
+DA:15,6
+DA:16,6
+DA:18,9
+DA:19,9
+BRDA:13,57,1,6
+BRDA:13,57,0,9
+FN:21,System.Void MenuMetadata.Common.Extensions.ValidationExtensions::ThrowIfInvalid(Core.Common.Implementation.ValidationResult)
+FNDA:10,System.Void MenuMetadata.Common.Extensions.ValidationExtensions::ThrowIfInvalid(Core.Common.Implementation.ValidationResult)
+DA:22,10
+DA:23,10
+DA:24,2
+DA:25,2
+DA:27,8
+BRDA:23,12,0,2
+BRDA:23,12,1,8
+FN:29,System.Boolean MenuMetadata.Common.Extensions.ValidationExtensions::IsDistinct(System.Collections.Generic.IEnumerable`1<T>)
+FNDA:14,System.Boolean MenuMetadata.Common.Extensions.ValidationExtensions::IsDistinct(System.Collections.Generic.IEnumerable`1<T>)
+DA:30,14
+DA:31,14
+DA:32,101
+DA:33,30
+DA:34,30
+DA:35,1
+DA:36,1
+DA:38,29
+DA:40,13
+DA:41,14
+BRDA:32,52,1,30
+BRDA:34,37,0,1
+BRDA:34,37,1,29
+BRDA:32,52,0,13
+LF:23
+LH:23
+BRF:8
+BRH:8
+FNF:3
+FNH:3
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Common\Constants\ErrorCodes.cs
+FN:14,System.String MenuMetadata.Common.Constants.ErrorCodes::GetCode(System.String)
+FNDA:1,System.String MenuMetadata.Common.Constants.ErrorCodes::GetCode(System.String)
+DA:15,1
+DA:17,1
+DA:18,1
+LF:3
+LH:3
+BRF:0
+BRH:0
+FNF:1
+FNH:1
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Common\Configuration\CosmosDbConfig.cs
+FN:8,System.String MenuMetadata.Common.Configuration.CosmosDbConfig::get_Uri()
+FNDA:24,System.String MenuMetadata.Common.Configuration.CosmosDbConfig::get_Uri()
+DA:9,24
+FN:9,System.String MenuMetadata.Common.Configuration.CosmosDbConfig::get_Key()
+FNDA:24,System.String MenuMetadata.Common.Configuration.CosmosDbConfig::get_Key()
+DA:10,24
+FN:10,System.String MenuMetadata.Common.Configuration.CosmosDbConfig::get_DatabaseId()
+FNDA:35,System.String MenuMetadata.Common.Configuration.CosmosDbConfig::get_DatabaseId()
+DA:11,35
+LF:3
+LH:3
+BRF:0
+BRH:0
+FNF:3
+FNH:3
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Common\Configuration\RedisConfig.cs
+FN:4,System.String MenuMetadata.Common.Configuration.RedisConfig::get_ConnectionString()
+FNDA:6,System.String MenuMetadata.Common.Configuration.RedisConfig::get_ConnectionString()
+DA:5,6
+FN:5,System.Double MenuMetadata.Common.Configuration.RedisConfig::get_MenuMetadataExpiryInMinutes()
+FNDA:6,System.Double MenuMetadata.Common.Configuration.RedisConfig::get_MenuMetadataExpiryInMinutes()
+DA:6,6
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Models\Entities\MenuItemGroup.cs
+FN:9,System.String MenuMetadata.Models.Entities.MenuItemGroup::get_Id()
+FNDA:66,System.String MenuMetadata.Models.Entities.MenuItemGroup::get_Id()
+DA:10,66
+FN:11,System.Boolean MenuMetadata.Models.Entities.MenuItemGroup::get_IsActive()
+FNDA:44,System.Boolean MenuMetadata.Models.Entities.MenuItemGroup::get_IsActive()
+DA:12,44
+FN:13,System.String MenuMetadata.Models.Entities.MenuItemGroup::get_DisplayName()
+FNDA:56,System.String MenuMetadata.Models.Entities.MenuItemGroup::get_DisplayName()
+DA:14,56
+FN:15,System.String MenuMetadata.Models.Entities.MenuItemGroup::get_CreatedBy()
+FNDA:41,System.String MenuMetadata.Models.Entities.MenuItemGroup::get_CreatedBy()
+DA:16,41
+FN:17,System.DateTime MenuMetadata.Models.Entities.MenuItemGroup::get_CreatedTimestamp()
+FNDA:41,System.DateTime MenuMetadata.Models.Entities.MenuItemGroup::get_CreatedTimestamp()
+DA:18,41
+FN:19,System.String MenuMetadata.Models.Entities.MenuItemGroup::get_LastModifiedBy()
+FNDA:37,System.String MenuMetadata.Models.Entities.MenuItemGroup::get_LastModifiedBy()
+DA:20,37
+FN:21,System.DateTime MenuMetadata.Models.Entities.MenuItemGroup::get_LastModifiedTimestamp()
+FNDA:37,System.DateTime MenuMetadata.Models.Entities.MenuItemGroup::get_LastModifiedTimestamp()
+DA:22,37
+FN:23,System.Collections.Generic.List`1<MenuMetadata.Models.Entities.MenuItemGroupChannelInfo> MenuMetadata.Models.Entities.MenuItemGroup::get_Channels()
+FNDA:72,System.Collections.Generic.List`1<MenuMetadata.Models.Entities.MenuItemGroupChannelInfo> MenuMetadata.Models.Entities.MenuItemGroup::get_Channels()
+DA:24,72
+FN:25,System.Collections.Generic.List`1<MenuMetadata.Models.Entities.MenuItemGroupItem> MenuMetadata.Models.Entities.MenuItemGroup::get_Items()
+FNDA:75,System.Collections.Generic.List`1<MenuMetadata.Models.Entities.MenuItemGroupItem> MenuMetadata.Models.Entities.MenuItemGroup::get_Items()
+DA:26,75
+LF:9
+LH:9
+BRF:0
+BRH:0
+FNF:9
+FNH:9
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Models\Entities\MenuItemGroupChannelInfo.cs
+FN:4,System.String MenuMetadata.Models.Entities.MenuItemGroupChannelInfo::get_Channel()
+FNDA:15,System.String MenuMetadata.Models.Entities.MenuItemGroupChannelInfo::get_Channel()
+DA:5,15
+FN:6,System.String MenuMetadata.Models.Entities.MenuItemGroupChannelInfo::get_Description()
+FNDA:12,System.String MenuMetadata.Models.Entities.MenuItemGroupChannelInfo::get_Description()
+DA:7,12
+FN:8,System.String MenuMetadata.Models.Entities.MenuItemGroupChannelInfo::get_ThumbnailImageUrl()
+FNDA:12,System.String MenuMetadata.Models.Entities.MenuItemGroupChannelInfo::get_ThumbnailImageUrl()
+DA:9,12
+FN:9,System.String MenuMetadata.Models.Entities.MenuItemGroupChannelInfo::get_BannerImageUrl()
+FNDA:12,System.String MenuMetadata.Models.Entities.MenuItemGroupChannelInfo::get_BannerImageUrl()
+DA:10,12
+LF:4
+LH:4
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Models\Entities\MenuItemGroupItem.cs
+FN:4,System.String MenuMetadata.Models.Entities.MenuItemGroupItem::get_Id()
+FNDA:48,System.String MenuMetadata.Models.Entities.MenuItemGroupItem::get_Id()
+DA:5,48
+FN:5,System.Int32 MenuMetadata.Models.Entities.MenuItemGroupItem::get_SortOrder()
+FNDA:48,System.Int32 MenuMetadata.Models.Entities.MenuItemGroupItem::get_SortOrder()
+DA:6,48
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Models\Entities\MenuItemMetadata.cs
+FN:9,System.String MenuMetadata.Models.Entities.MenuItemMetadata::get_Id()
+FNDA:47,System.String MenuMetadata.Models.Entities.MenuItemMetadata::get_Id()
+DA:10,47
+FN:10,System.Boolean MenuMetadata.Models.Entities.MenuItemMetadata::get_IsActive()
+FNDA:56,System.Boolean MenuMetadata.Models.Entities.MenuItemMetadata::get_IsActive()
+DA:11,56
+FN:12,System.String MenuMetadata.Models.Entities.MenuItemMetadata::get_MenuItemId()
+FNDA:63,System.String MenuMetadata.Models.Entities.MenuItemMetadata::get_MenuItemId()
+DA:13,63
+FN:14,System.String MenuMetadata.Models.Entities.MenuItemMetadata::get_CreatedBy()
+FNDA:33,System.String MenuMetadata.Models.Entities.MenuItemMetadata::get_CreatedBy()
+DA:15,33
+FN:16,System.DateTime MenuMetadata.Models.Entities.MenuItemMetadata::get_CreatedTimestamp()
+FNDA:33,System.DateTime MenuMetadata.Models.Entities.MenuItemMetadata::get_CreatedTimestamp()
+DA:17,33
+FN:18,System.String MenuMetadata.Models.Entities.MenuItemMetadata::get_LastModifiedBy()
+FNDA:29,System.String MenuMetadata.Models.Entities.MenuItemMetadata::get_LastModifiedBy()
+DA:19,29
+FN:20,System.DateTime MenuMetadata.Models.Entities.MenuItemMetadata::get_LastModifiedTimestamp()
+FNDA:29,System.DateTime MenuMetadata.Models.Entities.MenuItemMetadata::get_LastModifiedTimestamp()
+DA:21,29
+FN:22,System.Collections.Generic.List`1<MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo> MenuMetadata.Models.Entities.MenuItemMetadata::get_Channels()
+FNDA:70,System.Collections.Generic.List`1<MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo> MenuMetadata.Models.Entities.MenuItemMetadata::get_Channels()
+DA:23,70
+LF:8
+LH:8
+BRF:0
+BRH:0
+FNF:8
+FNH:8
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Models\Entities\MenuItemMetadataChannelInfo.cs
+FN:4,System.String MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo::get_Channel()
+FNDA:44,System.String MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo::get_Channel()
+DA:5,44
+FN:6,System.String MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo::get_ThumbnailUrl()
+FNDA:38,System.String MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo::get_ThumbnailUrl()
+DA:7,38
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Models\Entities\TopLevelMenu.cs
+FN:9,System.String MenuMetadata.Models.Entities.TopLevelMenu::get_Id()
+FNDA:19,System.String MenuMetadata.Models.Entities.TopLevelMenu::get_Id()
+DA:10,19
+FN:11,System.Boolean MenuMetadata.Models.Entities.TopLevelMenu::get_IsActive()
+FNDA:25,System.Boolean MenuMetadata.Models.Entities.TopLevelMenu::get_IsActive()
+DA:12,25
+FN:13,System.String MenuMetadata.Models.Entities.TopLevelMenu::get_Channel()
+FNDA:36,System.String MenuMetadata.Models.Entities.TopLevelMenu::get_Channel()
+DA:14,36
+FN:15,System.String MenuMetadata.Models.Entities.TopLevelMenu::get_CreatedBy()
+FNDA:19,System.String MenuMetadata.Models.Entities.TopLevelMenu::get_CreatedBy()
+DA:16,19
+FN:17,System.DateTime MenuMetadata.Models.Entities.TopLevelMenu::get_CreatedTimestamp()
+FNDA:19,System.DateTime MenuMetadata.Models.Entities.TopLevelMenu::get_CreatedTimestamp()
+DA:18,19
+FN:19,System.String MenuMetadata.Models.Entities.TopLevelMenu::get_LastModifiedBy()
+FNDA:21,System.String MenuMetadata.Models.Entities.TopLevelMenu::get_LastModifiedBy()
+DA:20,21
+FN:21,System.DateTime MenuMetadata.Models.Entities.TopLevelMenu::get_LastModifiedTimestamp()
+FNDA:21,System.DateTime MenuMetadata.Models.Entities.TopLevelMenu::get_LastModifiedTimestamp()
+DA:22,21
+FN:23,System.Collections.Generic.List`1<MenuMetadata.Models.Entities.TopLevelMenuGroup> MenuMetadata.Models.Entities.TopLevelMenu::get_Groups()
+FNDA:26,System.Collections.Generic.List`1<MenuMetadata.Models.Entities.TopLevelMenuGroup> MenuMetadata.Models.Entities.TopLevelMenu::get_Groups()
+DA:24,26
+LF:8
+LH:8
+BRF:0
+BRH:0
+FNF:8
+FNH:8
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Models\Entities\TopLevelMenuGroup.cs
+FN:8,System.Int32 MenuMetadata.Models.Entities.TopLevelMenuGroup::get_SortOrder()
+FNDA:6,System.Int32 MenuMetadata.Models.Entities.TopLevelMenuGroup::get_SortOrder()
+DA:9,6
+FN:10,System.String MenuMetadata.Models.Entities.TopLevelMenuGroup::get_MenuItemGroupId()
+FNDA:4,System.String MenuMetadata.Models.Entities.TopLevelMenuGroup::get_MenuItemGroupId()
+DA:11,4
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Repository\Implementations\MenuItemGroupRepository.cs
+FN:28,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository::.ctor(MenuMetadata.Common.Configuration.CosmosDbConfig,Microsoft.Azure.Documents.IDocumentClient)
+FNDA:9,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository::.ctor(MenuMetadata.Common.Configuration.CosmosDbConfig,Microsoft.Azure.Documents.IDocumentClient)
+DA:29,9
+DA:30,9
+DA:31,9
+DA:32,9
+DA:33,9
+FN:22,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository::.cctor()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository::.cctor()
+DA:23,1
+DA:24,1
+FN:35,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<GetAllMenuItemGroupsAsync>d__7::MoveNext()
+FNDA:2,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<GetAllMenuItemGroupsAsync>d__7::MoveNext()
+DA:36,2
+DA:37,2
+DA:38,2
+DA:40,2
+DA:41,1
+DA:42,1
+DA:43,1
+DA:45,2
+DA:46,2
+BRDA:40,94,0,1
+BRDA:40,94,1,2
+BRDA:45,202,1,2
+FN:48,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<CreateMenuItemGroupAsync>d__8::MoveNext()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<CreateMenuItemGroupAsync>d__8::MoveNext()
+DA:49,1
+DA:50,1
+DA:51,1
+DA:53,1
+DA:54,1
+BRDA:51,99,1,1
+FN:56,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<UpdateMenuItemGroupAsync>d__9::MoveNext()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<UpdateMenuItemGroupAsync>d__9::MoveNext()
+DA:57,1
+DA:58,1
+DA:59,1
+DA:61,1
+DA:62,1
+BRDA:59,112,1,1
+FN:64,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<GetMenuItemGroupByDisplayNameAsync>d__10::MoveNext()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<GetMenuItemGroupByDisplayNameAsync>d__10::MoveNext()
+DA:65,1
+DA:66,1
+DA:67,1
+DA:68,1
+DA:69,1
+DA:71,1
+DA:72,1
+DA:73,1
+BRDA:71,243,1,1
+FN:75,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<GetMenuItemGroupByIdAsync>d__11::MoveNext()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemGroupRepository/<GetMenuItemGroupByIdAsync>d__11::MoveNext()
+DA:76,1
+DA:77,1
+DA:78,1
+DA:79,1
+DA:80,1
+DA:82,1
+DA:83,1
+DA:84,1
+BRDA:82,243,1,1
+LF:42
+LH:42
+BRF:7
+BRH:7
+FNF:7
+FNH:7
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Repository\Implementations\MenuItemMetadataRepository.cs
+FN:28,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository::.ctor(MenuMetadata.Common.Configuration.CosmosDbConfig,Microsoft.Azure.Documents.IDocumentClient)
+FNDA:8,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository::.ctor(MenuMetadata.Common.Configuration.CosmosDbConfig,Microsoft.Azure.Documents.IDocumentClient)
+DA:29,8
+DA:30,8
+DA:31,8
+DA:32,8
+DA:33,8
+FN:22,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository::.cctor()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository::.cctor()
+DA:23,1
+DA:24,1
+FN:35,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<GetAllMenuItemMetadataAsync>d__7::MoveNext()
+FNDA:2,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<GetAllMenuItemMetadataAsync>d__7::MoveNext()
+DA:36,2
+DA:37,2
+DA:38,2
+DA:40,2
+DA:41,1
+DA:42,1
+DA:43,1
+DA:45,2
+DA:46,2
+BRDA:40,94,0,1
+BRDA:40,94,1,2
+BRDA:45,202,1,2
+FN:48,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<CreateMenuItemMetadataAsync>d__8::MoveNext()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<CreateMenuItemMetadataAsync>d__8::MoveNext()
+DA:49,1
+DA:50,1
+DA:51,1
+DA:53,1
+DA:54,1
+BRDA:51,99,1,1
+FN:56,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<UpdateMenuItemMetadataAsync>d__9::MoveNext()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<UpdateMenuItemMetadataAsync>d__9::MoveNext()
+DA:57,1
+DA:58,1
+DA:59,1
+DA:61,1
+DA:62,1
+BRDA:59,112,1,1
+FN:64,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<GetMenuItemMetadataByMenuItemIdAsync>d__10::MoveNext()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<GetMenuItemMetadataByMenuItemIdAsync>d__10::MoveNext()
+DA:65,1
+DA:66,1
+DA:67,1
+DA:68,1
+DA:69,1
+DA:71,1
+DA:72,1
+DA:73,1
+BRDA:71,243,1,1
+FN:75,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<GetMenuItemMetadataByIdAsync>d__11::MoveNext()
+FNDA:1,System.Void MenuMetadata.Repository.Implementations.MenuItemMetadataRepository/<GetMenuItemMetadataByIdAsync>d__11::MoveNext()
+DA:76,1
+DA:77,1
+DA:78,1
+DA:79,1
+DA:80,1
+DA:82,1
+DA:83,1
+DA:84,1
+BRDA:82,243,1,1
+LF:42
+LH:42
+BRF:7
+BRH:7
+FNF:7
+FNH:7
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Repository\Helpers\CosmosDbHelper.cs
+FN:39,T MenuMetadata.Repository.Helpers.CosmosDbHelper::ConvertDocumentToType(Microsoft.Azure.Documents.Document)
+FNDA:5,T MenuMetadata.Repository.Helpers.CosmosDbHelper::ConvertDocumentToType(Microsoft.Azure.Documents.Document)
+DA:40,5
+DA:41,5
+DA:42,5
+DA:43,5
+DA:44,5
+DA:46,5
+DA:47,5
+DA:48,5
+DA:51,5
+FN:25,System.Void MenuMetadata.Repository.Helpers.CosmosDbHelper/<GetAllQueryResultsAsync>d__0`1::MoveNext()
+FNDA:11,System.Void MenuMetadata.Repository.Helpers.CosmosDbHelper/<GetAllQueryResultsAsync>d__0`1::MoveNext()
+DA:26,11
+DA:27,11
+DA:30,11
+DA:31,11
+DA:32,11
+DA:33,11
+DA:34,11
+DA:36,11
+DA:37,11
+BRDA:26,8,0,11
+BRDA:34,208,1,11
+BRDA:31,60,1,11
+BRDA:34,208,0,11
+LF:18
+LH:18
+BRF:4
+BRH:4
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Validators\AuditableEntityValidator.cs
+FN:7,System.Void MenuMetadata.Service.Validators.AuditableEntityValidator::.ctor()
+FNDA:3,System.Void MenuMetadata.Service.Validators.AuditableEntityValidator::.ctor()
+DA:8,3
+DA:9,3
+DA:10,3
+DA:11,3
+DA:12,3
+DA:13,3
+DA:14,3
+LF:7
+LH:7
+BRF:0
+BRH:0
+FNF:1
+FNH:1
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Validators\MenuItemGroupValidator.cs
+FN:12,System.Void MenuMetadata.Service.Validators.MenuItemGroupValidator::.ctor()
+FNDA:1,System.Void MenuMetadata.Service.Validators.MenuItemGroupValidator::.ctor()
+DA:13,1
+DA:14,1
+DA:15,1
+DA:17,1
+DA:18,1
+DA:20,1
+DA:21,7
+DA:23,1
+DA:24,12
+DA:25,12
+DA:26,1
+BRDA:21,353,0,2
+BRDA:21,353,1,4
+BRDA:24,532,0,1
+BRDA:24,532,1,1
+BRDA:25,632,0,1
+BRDA:25,632,1,1
+FN:29,System.Void MenuMetadata.Service.Validators.MenuItemGroupValidator/MenuItemGroupChannelInfoValidator::.ctor()
+FNDA:1,System.Void MenuMetadata.Service.Validators.MenuItemGroupValidator/MenuItemGroupChannelInfoValidator::.ctor()
+DA:30,1
+DA:31,1
+DA:32,1
+DA:33,1
+DA:34,1
+DA:35,1
+DA:36,1
+FN:40,System.Void MenuMetadata.Service.Validators.MenuItemGroupValidator/MenuItemGroupItemValidator::.ctor()
+FNDA:1,System.Void MenuMetadata.Service.Validators.MenuItemGroupValidator/MenuItemGroupItemValidator::.ctor()
+DA:41,1
+DA:42,1
+DA:43,9
+DA:44,1
+DA:45,1
+BRDA:43,82,0,1
+BRDA:43,82,1,1
+LF:23
+LH:23
+BRF:12
+BRH:12
+FNF:3
+FNH:3
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Validators\MenuItemMetadataValidator.cs
+FN:9,System.Void MenuMetadata.Service.Validators.MenuItemMetadataValidator::.ctor()
+FNDA:1,System.Void MenuMetadata.Service.Validators.MenuItemMetadataValidator::.ctor()
+DA:10,1
+DA:11,1
+DA:12,1
+DA:14,1
+DA:15,4
+DA:17,1
+DA:18,10
+DA:19,1
+BRDA:15,210,0,1
+BRDA:15,210,1,4
+BRDA:18,389,0,1
+BRDA:18,389,1,1
+FN:22,System.Void MenuMetadata.Service.Validators.MenuItemMetadataValidator/MenuItemMetadataChannelInfoValidator::.ctor()
+FNDA:1,System.Void MenuMetadata.Service.Validators.MenuItemMetadataValidator/MenuItemMetadataChannelInfoValidator::.ctor()
+DA:23,1
+DA:24,1
+DA:25,1
+DA:26,1
+DA:27,1
+LF:13
+LH:13
+BRF:6
+BRH:6
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Validators\TopLevelMenuValidator.cs
+FN:10,System.Void MenuMetadata.Service.Validators.TopLevelMenuValidator::.ctor()
+FNDA:1,System.Void MenuMetadata.Service.Validators.TopLevelMenuValidator::.ctor()
+DA:11,1
+DA:12,1
+DA:13,1
+DA:15,1
+DA:16,1
+DA:17,1
+DA:18,1
+DA:19,1
+FN:22,System.Void MenuMetadata.Service.Validators.TopLevelMenuValidator/TopLevelMenuGroupValidator::.ctor()
+FNDA:0,System.Void MenuMetadata.Service.Validators.TopLevelMenuValidator/TopLevelMenuGroupValidator::.ctor()
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+LF:13
+LH:8
+BRF:0
+BRH:0
+FNF:2
+FNH:1
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\AuditableResponse.cs
+FN:8,System.String MenuMetadata.Service.Responses.AuditableResponse::get_CreatedBy()
+FNDA:50,System.String MenuMetadata.Service.Responses.AuditableResponse::get_CreatedBy()
+DA:9,50
+FN:11,System.Nullable`1<System.DateTime> MenuMetadata.Service.Responses.AuditableResponse::get_CreatedTimestamp()
+FNDA:50,System.Nullable`1<System.DateTime> MenuMetadata.Service.Responses.AuditableResponse::get_CreatedTimestamp()
+DA:12,50
+FN:14,System.String MenuMetadata.Service.Responses.AuditableResponse::get_LastModifiedBy()
+FNDA:50,System.String MenuMetadata.Service.Responses.AuditableResponse::get_LastModifiedBy()
+DA:15,50
+FN:17,System.Nullable`1<System.DateTime> MenuMetadata.Service.Responses.AuditableResponse::get_LastModifiedTimestamp()
+FNDA:50,System.Nullable`1<System.DateTime> MenuMetadata.Service.Responses.AuditableResponse::get_LastModifiedTimestamp()
+DA:18,50
+LF:4
+LH:4
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\MenuItemGroupChannelInfoDto.cs
+FN:4,System.String MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto::get_Channel()
+FNDA:12,System.String MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto::get_Channel()
+DA:5,12
+FN:6,System.String MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto::get_Description()
+FNDA:12,System.String MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto::get_Description()
+DA:7,12
+FN:8,System.String MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto::get_ThumbnailImageUrl()
+FNDA:12,System.String MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto::get_ThumbnailImageUrl()
+DA:9,12
+FN:9,System.String MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto::get_BannerImageUrl()
+FNDA:12,System.String MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto::get_BannerImageUrl()
+DA:10,12
+LF:4
+LH:4
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\MenuItemGroupDto.cs
+FN:7,System.String MenuMetadata.Service.Responses.MenuItemGroupDto::get_Id()
+FNDA:29,System.String MenuMetadata.Service.Responses.MenuItemGroupDto::get_Id()
+DA:8,29
+FN:8,System.Boolean MenuMetadata.Service.Responses.MenuItemGroupDto::get_IsActive()
+FNDA:20,System.Boolean MenuMetadata.Service.Responses.MenuItemGroupDto::get_IsActive()
+DA:9,20
+FN:10,System.String MenuMetadata.Service.Responses.MenuItemGroupDto::get_DisplayName()
+FNDA:28,System.String MenuMetadata.Service.Responses.MenuItemGroupDto::get_DisplayName()
+DA:11,28
+FN:12,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto> MenuMetadata.Service.Responses.MenuItemGroupDto::get_Channels()
+FNDA:44,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto> MenuMetadata.Service.Responses.MenuItemGroupDto::get_Channels()
+DA:13,44
+FN:14,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.MenuItemGroupItemDto> MenuMetadata.Service.Responses.MenuItemGroupDto::get_Items()
+FNDA:44,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.MenuItemGroupItemDto> MenuMetadata.Service.Responses.MenuItemGroupDto::get_Items()
+DA:15,44
+LF:5
+LH:5
+BRF:0
+BRH:0
+FNF:5
+FNH:5
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\MenuItemGroupForChannelDto.cs
+FN:7,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_Id()
+FNDA:0,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_Id()
+DA:8,0
+FN:9,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_DisplayName()
+FNDA:0,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_DisplayName()
+DA:10,0
+FN:10,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_Description()
+FNDA:0,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_Description()
+DA:11,0
+FN:12,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_ThumbnailImageUrl()
+FNDA:0,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_ThumbnailImageUrl()
+DA:13,0
+FN:13,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_BannerImageUrl()
+FNDA:0,System.String MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_BannerImageUrl()
+DA:14,0
+FN:15,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.MenuItemGroupItemDto> MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_Items()
+FNDA:0,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.MenuItemGroupItemDto> MenuMetadata.Service.Responses.MenuItemGroupForChannelDto::get_Items()
+DA:16,0
+LF:6
+LH:0
+BRF:0
+BRH:0
+FNF:6
+FNH:0
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\MenuItemGroupItemDto.cs
+FN:4,System.String MenuMetadata.Service.Responses.MenuItemGroupItemDto::get_Id()
+FNDA:34,System.String MenuMetadata.Service.Responses.MenuItemGroupItemDto::get_Id()
+DA:5,34
+FN:5,System.Int32 MenuMetadata.Service.Responses.MenuItemGroupItemDto::get_SortOrder()
+FNDA:34,System.Int32 MenuMetadata.Service.Responses.MenuItemGroupItemDto::get_SortOrder()
+DA:6,34
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\MenuItemMetadataChannelInfoDto.cs
+FN:4,System.String MenuMetadata.Service.Responses.MenuItemMetadataChannelInfoDto::get_Channel()
+FNDA:22,System.String MenuMetadata.Service.Responses.MenuItemMetadataChannelInfoDto::get_Channel()
+DA:5,22
+FN:6,System.String MenuMetadata.Service.Responses.MenuItemMetadataChannelInfoDto::get_ThumbnailUrl()
+FNDA:22,System.String MenuMetadata.Service.Responses.MenuItemMetadataChannelInfoDto::get_ThumbnailUrl()
+DA:7,22
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\MenuItemMetadataDto.cs
+FN:9,System.String MenuMetadata.Service.Responses.MenuItemMetadataDto::get_Id()
+FNDA:37,System.String MenuMetadata.Service.Responses.MenuItemMetadataDto::get_Id()
+DA:10,37
+FN:11,System.Boolean MenuMetadata.Service.Responses.MenuItemMetadataDto::get_IsActive()
+FNDA:19,System.Boolean MenuMetadata.Service.Responses.MenuItemMetadataDto::get_IsActive()
+DA:12,19
+FN:13,System.String MenuMetadata.Service.Responses.MenuItemMetadataDto::get_MenuItemId()
+FNDA:31,System.String MenuMetadata.Service.Responses.MenuItemMetadataDto::get_MenuItemId()
+DA:14,31
+FN:15,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.MenuItemMetadataChannelInfoDto> MenuMetadata.Service.Responses.MenuItemMetadataDto::get_Channels()
+FNDA:43,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.MenuItemMetadataChannelInfoDto> MenuMetadata.Service.Responses.MenuItemMetadataDto::get_Channels()
+DA:16,43
+LF:4
+LH:4
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\MenuItemMetadataForChannelDto.cs
+FN:4,System.String MenuMetadata.Service.Responses.MenuItemMetadataForChannelDto::get_ThumbnailUrl()
+FNDA:0,System.String MenuMetadata.Service.Responses.MenuItemMetadataForChannelDto::get_ThumbnailUrl()
+DA:5,0
+LF:1
+LH:0
+BRF:0
+BRH:0
+FNF:1
+FNH:0
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\MenuMetadataForChannelDto.cs
+FN:7,System.String MenuMetadata.Service.Responses.MenuMetadataForChannelDto::get_Channel()
+FNDA:0,System.String MenuMetadata.Service.Responses.MenuMetadataForChannelDto::get_Channel()
+DA:8,0
+FN:9,MenuMetadata.Service.Responses.TopLevelMenuDto MenuMetadata.Service.Responses.MenuMetadataForChannelDto::get_TopLevelMenu()
+FNDA:0,MenuMetadata.Service.Responses.TopLevelMenuDto MenuMetadata.Service.Responses.MenuMetadataForChannelDto::get_TopLevelMenu()
+DA:10,0
+FN:11,System.Void MenuMetadata.Service.Responses.MenuMetadataForChannelDto::.ctor()
+FNDA:0,System.Void MenuMetadata.Service.Responses.MenuMetadataForChannelDto::.ctor()
+DA:12,0
+DA:13,0
+LF:4
+LH:0
+BRF:0
+BRH:0
+FNF:3
+FNH:0
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\TopLevelMenuDto.cs
+FN:9,System.String MenuMetadata.Service.Responses.TopLevelMenuDto::get_Id()
+FNDA:1,System.String MenuMetadata.Service.Responses.TopLevelMenuDto::get_Id()
+DA:10,1
+FN:12,System.Nullable`1<System.Boolean> MenuMetadata.Service.Responses.TopLevelMenuDto::get_IsActive()
+FNDA:1,System.Nullable`1<System.Boolean> MenuMetadata.Service.Responses.TopLevelMenuDto::get_IsActive()
+DA:13,1
+FN:14,System.String MenuMetadata.Service.Responses.TopLevelMenuDto::get_Channel()
+FNDA:1,System.String MenuMetadata.Service.Responses.TopLevelMenuDto::get_Channel()
+DA:15,1
+FN:16,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.TopLevelMenuGroupDto> MenuMetadata.Service.Responses.TopLevelMenuDto::get_Groups()
+FNDA:4,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Responses.TopLevelMenuGroupDto> MenuMetadata.Service.Responses.TopLevelMenuDto::get_Groups()
+DA:17,4
+LF:4
+LH:4
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Responses\TopLevelMenuGroupDto.cs
+FN:8,System.Int32 MenuMetadata.Service.Responses.TopLevelMenuGroupDto::get_SortOrder()
+FNDA:8,System.Int32 MenuMetadata.Service.Responses.TopLevelMenuGroupDto::get_SortOrder()
+DA:9,8
+FN:10,System.String MenuMetadata.Service.Responses.TopLevelMenuGroupDto::get_MenuItemGroupId()
+FNDA:6,System.String MenuMetadata.Service.Responses.TopLevelMenuGroupDto::get_MenuItemGroupId()
+DA:11,6
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Requests\CreateMenuItemGroupRequest.cs
+FN:7,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequest::get_DisplayName()
+FNDA:7,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequest::get_DisplayName()
+DA:8,7
+FN:9,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo> MenuMetadata.Service.Requests.CreateMenuItemGroupRequest::get_Channels()
+FNDA:6,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo> MenuMetadata.Service.Requests.CreateMenuItemGroupRequest::get_Channels()
+DA:10,6
+FN:11,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Requests.CreateMenuItemGroupRequestItem> MenuMetadata.Service.Requests.CreateMenuItemGroupRequest::get_Items()
+FNDA:6,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Requests.CreateMenuItemGroupRequestItem> MenuMetadata.Service.Requests.CreateMenuItemGroupRequest::get_Items()
+DA:12,6
+LF:3
+LH:3
+BRF:0
+BRH:0
+FNF:3
+FNH:3
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Requests\CreateMenuItemGroupRequestChannelInfo.cs
+FN:4,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo::get_Channel()
+FNDA:3,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo::get_Channel()
+DA:5,3
+FN:6,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo::get_Description()
+FNDA:3,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo::get_Description()
+DA:7,3
+FN:8,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo::get_ThumbnailImageUrl()
+FNDA:3,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo::get_ThumbnailImageUrl()
+DA:9,3
+FN:9,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo::get_BannerImageUrl()
+FNDA:3,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo::get_BannerImageUrl()
+DA:10,3
+LF:4
+LH:4
+BRF:0
+BRH:0
+FNF:4
+FNH:4
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Requests\CreateMenuItemGroupRequestItem.cs
+FN:5,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestItem::get_Id()
+FNDA:6,System.String MenuMetadata.Service.Requests.CreateMenuItemGroupRequestItem::get_Id()
+DA:6,6
+FN:6,System.Int32 MenuMetadata.Service.Requests.CreateMenuItemGroupRequestItem::get_SortOrder()
+FNDA:6,System.Int32 MenuMetadata.Service.Requests.CreateMenuItemGroupRequestItem::get_SortOrder()
+DA:7,6
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Requests\CreateMenuItemMetadataRequest.cs
+FN:7,System.String MenuMetadata.Service.Requests.CreateMenuItemMetadataRequest::get_MenuItemId()
+FNDA:7,System.String MenuMetadata.Service.Requests.CreateMenuItemMetadataRequest::get_MenuItemId()
+DA:8,7
+FN:9,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Requests.CreateMenuItemMetadataRequestChannelInfo> MenuMetadata.Service.Requests.CreateMenuItemMetadataRequest::get_Channels()
+FNDA:5,System.Collections.Generic.IEnumerable`1<MenuMetadata.Service.Requests.CreateMenuItemMetadataRequestChannelInfo> MenuMetadata.Service.Requests.CreateMenuItemMetadataRequest::get_Channels()
+DA:10,5
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Requests\CreateMenuItemMetadataRequestChannelInfo.cs
+FN:4,System.String MenuMetadata.Service.Requests.CreateMenuItemMetadataRequestChannelInfo::get_Channel()
+FNDA:4,System.String MenuMetadata.Service.Requests.CreateMenuItemMetadataRequestChannelInfo::get_Channel()
+DA:5,4
+FN:6,System.String MenuMetadata.Service.Requests.CreateMenuItemMetadataRequestChannelInfo::get_ThumbnailUrl()
+FNDA:4,System.String MenuMetadata.Service.Requests.CreateMenuItemMetadataRequestChannelInfo::get_ThumbnailUrl()
+DA:7,4
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Requests\CreateTopLevelMenuRequest.cs
+FN:7,System.String MenuMetadata.Service.Requests.CreateTopLevelMenuRequest::get_Channel()
+FNDA:8,System.String MenuMetadata.Service.Requests.CreateTopLevelMenuRequest::get_Channel()
+DA:8,8
+FN:9,System.Collections.Generic.List`1<MenuMetadata.Service.Responses.TopLevelMenuGroupDto> MenuMetadata.Service.Requests.CreateTopLevelMenuRequest::get_Groups()
+FNDA:6,System.Collections.Generic.List`1<MenuMetadata.Service.Responses.TopLevelMenuGroupDto> MenuMetadata.Service.Requests.CreateTopLevelMenuRequest::get_Groups()
+DA:10,6
+LF:2
+LH:2
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Requests\UpdateTopLevelMenuRequest.cs
+FN:9,System.String MenuMetadata.Service.Requests.UpdateTopLevelMenuRequest::get_Id()
+FNDA:2,System.String MenuMetadata.Service.Requests.UpdateTopLevelMenuRequest::get_Id()
+DA:10,2
+FN:11,System.String MenuMetadata.Service.Requests.UpdateTopLevelMenuRequest::get_Channel()
+FNDA:1,System.String MenuMetadata.Service.Requests.UpdateTopLevelMenuRequest::get_Channel()
+DA:12,1
+FN:13,System.Collections.Generic.List`1<MenuMetadata.Service.Responses.TopLevelMenuGroupDto> MenuMetadata.Service.Requests.UpdateTopLevelMenuRequest::get_Groups()
+FNDA:1,System.Collections.Generic.List`1<MenuMetadata.Service.Responses.TopLevelMenuGroupDto> MenuMetadata.Service.Requests.UpdateTopLevelMenuRequest::get_Groups()
+DA:14,1
+FN:16,System.Boolean MenuMetadata.Service.Requests.UpdateTopLevelMenuRequest::get_IsActive()
+FNDA:0,System.Boolean MenuMetadata.Service.Requests.UpdateTopLevelMenuRequest::get_IsActive()
+DA:17,0
+LF:4
+LH:3
+BRF:0
+BRH:0
+FNF:4
+FNH:3
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Implementations\MenuItemGroupService.cs
+FN:207,MenuMetadata.Service.Responses.MenuItemGroupDto MenuMetadata.Service.Implementations.MenuItemGroupService::MapMenuItemGroupToDto(MenuMetadata.Models.Entities.MenuItemGroup)
+FNDA:10,MenuMetadata.Service.Responses.MenuItemGroupDto MenuMetadata.Service.Implementations.MenuItemGroupService::MapMenuItemGroupToDto(MenuMetadata.Models.Entities.MenuItemGroup)
+DA:208,10
+DA:212,10
+DA:213,10
+DA:215,10
+DA:216,10
+DA:217,9
+DA:218,1
+DA:219,1
+DA:220,1
+DA:221,1
+DA:222,10
+DA:224,10
+DA:225,10
+DA:226,10
+DA:227,10
+DA:228,10
+DA:229,10
+DA:230,10
+DA:231,10
+DA:232,10
+DA:233,10
+DA:234,13
+DA:235,13
+DA:236,13
+DA:237,13
+DA:238,13
+DA:239,13
+DA:240,13
+DA:241,10
+DA:242,10
+DA:243,18
+DA:244,18
+DA:245,18
+DA:246,18
+DA:247,18
+DA:248,10
+DA:249,10
+DA:251,10
+DA:253,10
+DA:254,10
+BRDA:212,14,0,10
+BRDA:212,14,1,10
+BRDA:224,223,0,1
+BRDA:224,223,1,10
+BRDA:224,277,0,1
+BRDA:224,277,1,10
+FN:55,MenuMetadata.Service.Responses.MenuItemGroupDto MenuMetadata.Service.Implementations.MenuItemGroupService::<GetAllMenuItemGroupsAsync>b__6_0(MenuMetadata.Models.Entities.MenuItemGroup)
+FNDA:8,MenuMetadata.Service.Responses.MenuItemGroupDto MenuMetadata.Service.Implementations.MenuItemGroupService::<GetAllMenuItemGroupsAsync>b__6_0(MenuMetadata.Models.Entities.MenuItemGroup)
+DA:56,8
+FN:34,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService::.ctor(MenuMetadata.Repository.Interfaces.IMenuItemGroupRepository,MenuMetadata.Service.Interfaces.IMenuMetadataCacheService,MenuMetadata.Common.Interfaces.IJwtRequestInfo,Chipotle.Core.Logging.IObjectLogger)
+FNDA:11,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService::.ctor(MenuMetadata.Repository.Interfaces.IMenuItemGroupRepository,MenuMetadata.Service.Interfaces.IMenuMetadataCacheService,MenuMetadata.Common.Interfaces.IJwtRequestInfo,Chipotle.Core.Logging.IObjectLogger)
+DA:35,11
+DA:36,11
+DA:37,11
+DA:38,11
+DA:39,11
+DA:40,11
+DA:41,11
+DA:42,11
+DA:43,11
+DA:44,11
+DA:45,11
+FN:27,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService::.cctor()
+FNDA:1,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService::.cctor()
+DA:28,1
+FN:47,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService/<GetAllMenuItemGroupsAsync>d__6::MoveNext()
+FNDA:2,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService/<GetAllMenuItemGroupsAsync>d__6::MoveNext()
+DA:48,2
+DA:49,2
+DA:51,2
+DA:53,2
+DA:55,2
+DA:57,2
+DA:59,2
+DA:60,2
+BRDA:51,88,1,2
+FN:89,MenuMetadata.Models.Entities.MenuItemGroupChannelInfo MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<CreateMenuItemGroupAsync>b__7_0(MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo)
+FNDA:2,MenuMetadata.Models.Entities.MenuItemGroupChannelInfo MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<CreateMenuItemGroupAsync>b__7_0(MenuMetadata.Service.Requests.CreateMenuItemGroupRequestChannelInfo)
+DA:90,2
+DA:91,2
+DA:92,2
+DA:93,2
+DA:94,2
+DA:95,2
+DA:96,2
+FN:98,MenuMetadata.Models.Entities.MenuItemGroupItem MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<CreateMenuItemGroupAsync>b__7_1(MenuMetadata.Service.Requests.CreateMenuItemGroupRequestItem)
+FNDA:3,MenuMetadata.Models.Entities.MenuItemGroupItem MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<CreateMenuItemGroupAsync>b__7_1(MenuMetadata.Service.Requests.CreateMenuItemGroupRequestItem)
+DA:99,3
+DA:100,3
+DA:101,3
+DA:102,3
+DA:103,3
+FN:103,System.Int32 MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<CreateMenuItemGroupAsync>b__7_2(MenuMetadata.Models.Entities.MenuItemGroupItem)
+FNDA:3,System.Int32 MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<CreateMenuItemGroupAsync>b__7_2(MenuMetadata.Models.Entities.MenuItemGroupItem)
+DA:104,3
+FN:165,MenuMetadata.Models.Entities.MenuItemGroupChannelInfo MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<UpdateMenuItemGroupAsync>b__8_0(MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto)
+FNDA:4,MenuMetadata.Models.Entities.MenuItemGroupChannelInfo MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<UpdateMenuItemGroupAsync>b__8_0(MenuMetadata.Service.Responses.MenuItemGroupChannelInfoDto)
+DA:166,4
+DA:167,4
+DA:168,4
+DA:169,4
+DA:170,4
+DA:171,4
+DA:172,4
+FN:174,MenuMetadata.Models.Entities.MenuItemGroupItem MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<UpdateMenuItemGroupAsync>b__8_1(MenuMetadata.Service.Responses.MenuItemGroupItemDto)
+FNDA:8,MenuMetadata.Models.Entities.MenuItemGroupItem MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<UpdateMenuItemGroupAsync>b__8_1(MenuMetadata.Service.Responses.MenuItemGroupItemDto)
+DA:175,8
+DA:176,8
+DA:177,8
+DA:178,8
+DA:179,8
+FN:179,System.Int32 MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<UpdateMenuItemGroupAsync>b__8_2(MenuMetadata.Models.Entities.MenuItemGroupItem)
+FNDA:8,System.Int32 MenuMetadata.Service.Implementations.MenuItemGroupService/<>c::<UpdateMenuItemGroupAsync>b__8_2(MenuMetadata.Models.Entities.MenuItemGroupItem)
+DA:180,8
+FN:67,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService/<CreateMenuItemGroupAsync>d__7::MoveNext()
+FNDA:3,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService/<CreateMenuItemGroupAsync>d__7::MoveNext()
+DA:68,3
+DA:69,3
+DA:71,3
+DA:72,1
+DA:73,1
+DA:76,2
+DA:77,1
+DA:78,1
+DA:79,1
+DA:81,1
+DA:84,1
+DA:85,1
+DA:86,1
+DA:87,1
+DA:88,1
+DA:89,1
+DA:97,1
+DA:98,1
+DA:105,1
+DA:106,1
+DA:108,1
+DA:109,1
+DA:111,1
+DA:114,1
+DA:115,1
+DA:116,1
+DA:117,1
+DA:119,1
+DA:121,1
+DA:123,1
+DA:126,1
+DA:128,1
+DA:129,1
+BRDA:71,92,0,1
+BRDA:71,92,1,2
+BRDA:76,147,1,2
+BRDA:76,243,0,1
+BRDA:76,243,1,1
+BRDA:84,400,0,1
+BRDA:84,400,1,1
+BRDA:84,459,0,1
+BRDA:84,459,1,1
+BRDA:84,495,0,1
+BRDA:84,495,1,1
+BRDA:108,554,1,1
+BRDA:108,566,1,1
+BRDA:121,739,1,1
+BRDA:126,911,1,1
+FN:131,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService/<UpdateMenuItemGroupAsync>d__8::MoveNext()
+FNDA:4,System.Void MenuMetadata.Service.Implementations.MenuItemGroupService/<UpdateMenuItemGroupAsync>d__8::MoveNext()
+DA:132,4
+DA:133,4
+DA:135,4
+DA:136,1
+DA:137,1
+DA:140,3
+DA:141,3
+DA:142,1
+DA:143,1
+DA:144,1
+DA:146,1
+DA:149,2
+DA:151,2
+DA:152,2
+DA:153,0
+DA:154,0
+DA:155,0
+DA:157,0
+DA:160,2
+DA:161,2
+DA:162,2
+DA:163,2
+DA:164,2
+DA:165,2
+DA:173,2
+DA:174,2
+DA:181,2
+DA:182,2
+DA:184,2
+DA:185,2
+DA:187,2
+DA:190,2
+DA:191,2
+DA:192,2
+DA:193,2
+DA:195,2
+DA:197,2
+DA:199,2
+DA:202,2
+DA:204,2
+DA:205,2
+BRDA:135,104,0,1
+BRDA:135,104,1,3
+BRDA:140,158,1,3
+BRDA:141,273,0,1
+BRDA:141,273,1,2
+BRDA:151,428,1,2
+BRDA:152,538,1,2
+BRDA:152,574,1,2
+BRDA:160,787,0,1
+BRDA:160,787,1,2
+BRDA:160,846,0,1
+BRDA:160,846,1,2
+BRDA:160,882,0,1
+BRDA:160,882,1,2
+BRDA:184,941,1,2
+BRDA:184,953,1,2
+BRDA:197,1138,1,2
+BRDA:202,1313,1,2
+LF:161
+LH:157
+BRF:40
+BRH:40
+FNF:13
+FNH:13
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Implementations\MenuItemMetadataService.cs
+FN:152,MenuMetadata.Service.Responses.MenuItemMetadataDto MenuMetadata.Service.Implementations.MenuItemMetadataService::MapMenuItemMetadataToDto(MenuMetadata.Models.Entities.MenuItemMetadata)
+FNDA:9,MenuMetadata.Service.Responses.MenuItemMetadataDto MenuMetadata.Service.Implementations.MenuItemMetadataService::MapMenuItemMetadataToDto(MenuMetadata.Models.Entities.MenuItemMetadata)
+DA:153,9
+DA:154,9
+DA:155,9
+DA:156,9
+DA:157,9
+DA:158,9
+DA:159,9
+DA:160,9
+DA:161,9
+DA:162,9
+DA:163,9
+DA:164,15
+DA:165,15
+DA:166,15
+DA:167,15
+DA:168,15
+DA:169,9
+DA:170,9
+DA:171,9
+BRDA:154,120,0,1
+BRDA:154,120,1,9
+FN:41,MenuMetadata.Service.Responses.MenuItemMetadataDto MenuMetadata.Service.Implementations.MenuItemMetadataService::<GetAllMenuItemMetadataAsync>b__6_0(MenuMetadata.Models.Entities.MenuItemMetadata)
+FNDA:8,MenuMetadata.Service.Responses.MenuItemMetadataDto MenuMetadata.Service.Implementations.MenuItemMetadataService::<GetAllMenuItemMetadataAsync>b__6_0(MenuMetadata.Models.Entities.MenuItemMetadata)
+DA:42,8
+FN:29,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService::.ctor(MenuMetadata.Repository.Interfaces.IMenuItemMetadataRepository,MenuMetadata.Service.Interfaces.IMenuMetadataCacheService,MenuMetadata.Common.Interfaces.IJwtRequestInfo,Chipotle.Core.Logging.IObjectLogger)
+FNDA:11,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService::.ctor(MenuMetadata.Repository.Interfaces.IMenuItemMetadataRepository,MenuMetadata.Service.Interfaces.IMenuMetadataCacheService,MenuMetadata.Common.Interfaces.IJwtRequestInfo,Chipotle.Core.Logging.IObjectLogger)
+DA:30,11
+DA:31,11
+DA:32,11
+DA:33,11
+DA:34,11
+DA:35,11
+DA:36,11
+FN:22,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService::.cctor()
+FNDA:1,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService::.cctor()
+DA:23,1
+FN:38,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService/<GetAllMenuItemMetadataAsync>d__6::MoveNext()
+FNDA:2,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService/<GetAllMenuItemMetadataAsync>d__6::MoveNext()
+DA:39,2
+DA:40,2
+DA:43,2
+BRDA:40,50,1,2
+FN:65,MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo MenuMetadata.Service.Implementations.MenuItemMetadataService/<>c::<CreateMenuItemMetadataAsync>b__7_0(MenuMetadata.Service.Requests.CreateMenuItemMetadataRequestChannelInfo)
+FNDA:3,MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo MenuMetadata.Service.Implementations.MenuItemMetadataService/<>c::<CreateMenuItemMetadataAsync>b__7_0(MenuMetadata.Service.Requests.CreateMenuItemMetadataRequestChannelInfo)
+DA:66,3
+DA:67,3
+DA:68,3
+DA:69,3
+DA:70,3
+FN:127,MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo MenuMetadata.Service.Implementations.MenuItemMetadataService/<>c::<UpdateMenuItemMetadataAsync>b__8_0(MenuMetadata.Service.Responses.MenuItemMetadataChannelInfoDto)
+FNDA:6,MenuMetadata.Models.Entities.MenuItemMetadataChannelInfo MenuMetadata.Service.Implementations.MenuItemMetadataService/<>c::<UpdateMenuItemMetadataAsync>b__8_0(MenuMetadata.Service.Responses.MenuItemMetadataChannelInfoDto)
+DA:128,6
+DA:129,6
+DA:130,6
+DA:131,6
+DA:132,6
+FN:45,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService/<CreateMenuItemMetadataAsync>d__7::MoveNext()
+FNDA:3,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService/<CreateMenuItemMetadataAsync>d__7::MoveNext()
+DA:46,3
+DA:47,3
+DA:48,1
+DA:49,1
+DA:52,2
+DA:53,1
+DA:54,1
+DA:55,1
+DA:57,1
+DA:60,1
+DA:61,1
+DA:62,1
+DA:63,1
+DA:64,1
+DA:65,1
+DA:71,1
+DA:72,1
+DA:74,1
+DA:75,1
+DA:77,1
+DA:78,1
+DA:79,1
+DA:80,1
+DA:82,1
+DA:85,1
+DA:87,1
+DA:88,1
+BRDA:47,51,0,1
+BRDA:47,51,1,2
+BRDA:52,106,1,2
+BRDA:52,202,0,1
+BRDA:52,202,1,1
+BRDA:60,359,0,1
+BRDA:60,359,1,1
+BRDA:74,418,1,1
+BRDA:74,430,1,1
+BRDA:82,527,1,1
+BRDA:85,661,1,1
+FN:90,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService/<UpdateMenuItemMetadataAsync>d__8::MoveNext()
+FNDA:5,System.Void MenuMetadata.Service.Implementations.MenuItemMetadataService/<UpdateMenuItemMetadataAsync>d__8::MoveNext()
+DA:91,5
+DA:92,5
+DA:93,1
+DA:94,1
+DA:97,4
+DA:98,4
+DA:100,4
+DA:103,4
+DA:104,4
+DA:105,1
+DA:106,1
+DA:107,1
+DA:109,1
+DA:113,3
+DA:114,3
+DA:115,1
+DA:116,1
+DA:117,1
+DA:119,1
+DA:122,2
+DA:123,2
+DA:124,2
+DA:125,2
+DA:126,2
+DA:127,2
+DA:133,2
+DA:134,2
+DA:136,2
+DA:137,2
+DA:139,2
+DA:140,2
+DA:141,2
+DA:142,2
+DA:144,2
+DA:147,2
+DA:149,2
+DA:150,2
+BRDA:92,54,0,1
+BRDA:92,54,1,4
+BRDA:100,176,1,4
+BRDA:104,284,0,1
+BRDA:104,284,1,3
+BRDA:114,380,0,2
+BRDA:114,380,1,1
+BRDA:114,416,0,1
+BRDA:114,416,1,2
+BRDA:122,629,0,1
+BRDA:122,629,1,2
+BRDA:136,688,1,2
+BRDA:136,700,1,2
+BRDA:144,803,1,2
+BRDA:147,937,1,2
+LF:105
+LH:105
+BRF:29
+BRH:29
+FNF:9
+FNH:9
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Implementations\MenuMetadataCacheService.cs
+FN:19,System.Void MenuMetadata.Service.Implementations.MenuMetadataCacheService::.ctor(StackExchange.Redis.IConnectionMultiplexer,MenuMetadata.Common.Configuration.RedisConfig,Chipotle.Core.Logging.IObjectLogger)
+FNDA:2,System.Void MenuMetadata.Service.Implementations.MenuMetadataCacheService::.ctor(StackExchange.Redis.IConnectionMultiplexer,MenuMetadata.Common.Configuration.RedisConfig,Chipotle.Core.Logging.IObjectLogger)
+DA:20,2
+DA:21,2
+DA:22,2
+DA:23,2
+DA:24,2
+DA:25,2
+FN:27,System.Void MenuMetadata.Service.Implementations.MenuMetadataCacheService/<CacheMetadataAsync>d__5::MoveNext()
+FNDA:0,System.Void MenuMetadata.Service.Implementations.MenuMetadataCacheService/<CacheMetadataAsync>d__5::MoveNext()
+DA:28,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+BRDA:28,17,0,0
+BRDA:32,129,0,0
+BRDA:28,17,1,0
+BRDA:32,129,1,0
+FN:42,System.Void MenuMetadata.Service.Implementations.MenuMetadataCacheService/<ClearCacheAsync>d__6::MoveNext()
+FNDA:0,System.Void MenuMetadata.Service.Implementations.MenuMetadataCacheService/<ClearCacheAsync>d__6::MoveNext()
+DA:43,0
+DA:45,0
+DA:46,0
+DA:47,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+BRDA:43,17,0,0
+BRDA:47,83,0,0
+BRDA:43,17,1,0
+BRDA:47,83,1,0
+FN:57,System.Void MenuMetadata.Service.Implementations.MenuMetadataCacheService/<GetCachedMetadataAsync>d__7::MoveNext()
+FNDA:0,System.Void MenuMetadata.Service.Implementations.MenuMetadataCacheService/<GetCachedMetadataAsync>d__7::MoveNext()
+DA:58,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:64,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:70,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:75,0
+DA:76,0
+DA:78,0
+DA:79,0
+BRDA:58,17,0,0
+BRDA:62,83,0,0
+BRDA:58,17,1,0
+BRDA:62,83,1,0
+BRDA:66,238,0,0
+BRDA:66,238,1,0
+BRDA:66,261,0,0
+BRDA:66,261,1,0
+LF:44
+LH:6
+BRF:16
+BRH:0
+FNF:4
+FNH:1
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Implementations\MenuMetadataService.cs
+FN:16,System.Void MenuMetadata.Service.Implementations.MenuMetadataService::.ctor(MenuMetadata.Service.Interfaces.IMenuItemGroupService,MenuMetadata.Service.Interfaces.IMenuItemMetadataService,MenuMetadata.Service.Interfaces.ITopLevelMenuService,MenuMetadata.Service.Interfaces.IMenuMetadataCacheService)
+FNDA:2,System.Void MenuMetadata.Service.Implementations.MenuMetadataService::.ctor(MenuMetadata.Service.Interfaces.IMenuItemGroupService,MenuMetadata.Service.Interfaces.IMenuItemMetadataService,MenuMetadata.Service.Interfaces.ITopLevelMenuService,MenuMetadata.Service.Interfaces.IMenuMetadataCacheService)
+DA:17,2
+DA:18,2
+DA:19,2
+DA:20,2
+DA:21,2
+DA:22,2
+DA:23,2
+DA:24,2
+DA:25,2
+DA:26,2
+DA:27,2
+FN:57,<>f__AnonymousType0`2<System.String,MenuMetadata.Service.Responses.MenuItemMetadataForChannelDto> MenuMetadata.Service.Implementations.MenuMetadataService/<>c__DisplayClass5_0::<GetMenuMetadataForChannelAsync>b__0(MenuMetadata.Service.Responses.MenuItemMetadataDto)
+FNDA:0,<>f__AnonymousType0`2<System.String,MenuMetadata.Service.Responses.MenuItemMetadataForChannelDto> MenuMetadata.Service.Implementations.MenuMetadataService/<>c__DisplayClass5_0::<GetMenuMetadataForChannelAsync>b__0(MenuMetadata.Service.Responses.MenuItemMetadataDto)
+DA:58,0
+DA:59,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:69,0
+DA:70,0
+DA:71,0
+BRDA:59,14,0,0
+BRDA:59,14,1,0
+BRDA:61,45,0,0
+BRDA:61,45,1,0
+FN:75,MenuMetadata.Service.Responses.MenuItemGroupForChannelDto MenuMetadata.Service.Implementations.MenuMetadataService/<>c__DisplayClass5_0::<GetMenuMetadataForChannelAsync>b__4(MenuMetadata.Service.Responses.MenuItemGroupDto)
+FNDA:0,MenuMetadata.Service.Responses.MenuItemGroupForChannelDto MenuMetadata.Service.Implementations.MenuMetadataService/<>c__DisplayClass5_0::<GetMenuMetadataForChannelAsync>b__4(MenuMetadata.Service.Responses.MenuItemGroupDto)
+DA:76,0
+DA:77,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,0
+DA:83,0
+DA:84,0
+DA:85,0
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:95,0
+BRDA:77,14,0,0
+BRDA:77,14,1,0
+BRDA:79,45,0,0
+BRDA:79,130,0,0
+BRDA:79,130,1,0
+BRDA:79,45,1,0
+FN:71,System.Boolean MenuMetadata.Service.Implementations.MenuMetadataService/<>c::<GetMenuMetadataForChannelAsync>b__5_1(<>f__AnonymousType0`2<System.String,MenuMetadata.Service.Responses.MenuItemMetadataForChannelDto>)
+FNDA:0,System.Boolean MenuMetadata.Service.Implementations.MenuMetadataService/<>c::<GetMenuMetadataForChannelAsync>b__5_1(<>f__AnonymousType0`2<System.String,MenuMetadata.Service.Responses.MenuItemMetadataForChannelDto>)
+DA:72,0
+FN:72,System.String MenuMetadata.Service.Implementations.MenuMetadataService/<>c::<GetMenuMetadataForChannelAsync>b__5_2(<>f__AnonymousType0`2<System.String,MenuMetadata.Service.Responses.MenuItemMetadataForChannelDto>)
+FNDA:0,System.String MenuMetadata.Service.Implementations.MenuMetadataService/<>c::<GetMenuMetadataForChannelAsync>b__5_2(<>f__AnonymousType0`2<System.String,MenuMetadata.Service.Responses.MenuItemMetadataForChannelDto>)
+DA:73,0
+FN:95,System.Boolean MenuMetadata.Service.Implementations.MenuMetadataService/<>c::<GetMenuMetadataForChannelAsync>b__5_5(MenuMetadata.Service.Responses.MenuItemGroupForChannelDto)
+FNDA:0,System.Boolean MenuMetadata.Service.Implementations.MenuMetadataService/<>c::<GetMenuMetadataForChannelAsync>b__5_5(MenuMetadata.Service.Responses.MenuItemGroupForChannelDto)
+DA:96,0
+FN:29,System.Void MenuMetadata.Service.Implementations.MenuMetadataService/<GetMenuMetadataForChannelAsync>d__5::MoveNext()
+FNDA:0,System.Void MenuMetadata.Service.Implementations.MenuMetadataService/<GetMenuMetadataForChannelAsync>d__5::MoveNext()
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+DA:37,0
+DA:38,0
+DA:39,0
+DA:41,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:47,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:60,0
+DA:74,0
+DA:75,0
+DA:78,0
+DA:97,0
+DA:98,0
+DA:100,0
+DA:102,0
+DA:103,0
+BRDA:31,97,0,0
+BRDA:31,97,1,0
+BRDA:32,211,0,0
+BRDA:32,211,1,0
+BRDA:41,357,0,0
+BRDA:41,357,1,0
+BRDA:47,585,0,0
+BRDA:47,585,1,0
+BRDA:47,619,0,0
+BRDA:47,619,1,0
+BRDA:47,655,0,0
+BRDA:47,655,1,0
+BRDA:47,686,0,0
+BRDA:47,686,1,0
+BRDA:47,729,0,0
+BRDA:47,729,1,0
+BRDA:47,763,0,0
+BRDA:47,763,1,0
+BRDA:100,844,0,0
+BRDA:100,844,1,0
+LF:78
+LH:11
+BRF:30
+BRH:0
+FNF:7
+FNH:1
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Implementations\TopLevelMenuService.cs
+FN:172,MenuMetadata.Service.Responses.TopLevelMenuDto MenuMetadata.Service.Implementations.TopLevelMenuService::MapTopLevelMenuToDto(MenuMetadata.Models.Entities.TopLevelMenu)
+FNDA:1,MenuMetadata.Service.Responses.TopLevelMenuDto MenuMetadata.Service.Implementations.TopLevelMenuService::MapTopLevelMenuToDto(MenuMetadata.Models.Entities.TopLevelMenu)
+DA:173,1
+DA:174,1
+DA:175,1
+DA:176,1
+DA:177,1
+DA:178,1
+DA:179,3
+DA:180,3
+DA:181,3
+DA:182,3
+DA:183,3
+DA:184,1
+DA:185,1
+DA:186,1
+DA:187,1
+DA:188,1
+DA:189,1
+DA:190,1
+DA:191,1
+BRDA:174,45,0,1
+BRDA:174,45,1,1
+FN:51,MenuMetadata.Service.Responses.TopLevelMenuDto MenuMetadata.Service.Implementations.TopLevelMenuService::<GetTopLevelMenusAsync>b__6_0(MenuMetadata.Models.Entities.TopLevelMenu)
+FNDA:0,MenuMetadata.Service.Responses.TopLevelMenuDto MenuMetadata.Service.Implementations.TopLevelMenuService::<GetTopLevelMenusAsync>b__6_0(MenuMetadata.Models.Entities.TopLevelMenu)
+DA:52,0
+FN:32,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService::.ctor(MenuMetadata.Repository.Interfaces.ITopLevelMenuRepository,MenuMetadata.Service.Interfaces.IMenuMetadataCacheService,MenuMetadata.Common.Interfaces.IJwtRequestInfo,Chipotle.Core.Logging.IObjectLogger)
+FNDA:6,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService::.ctor(MenuMetadata.Repository.Interfaces.ITopLevelMenuRepository,MenuMetadata.Service.Interfaces.IMenuMetadataCacheService,MenuMetadata.Common.Interfaces.IJwtRequestInfo,Chipotle.Core.Logging.IObjectLogger)
+DA:33,6
+DA:34,6
+DA:35,6
+DA:36,6
+DA:37,6
+DA:38,6
+DA:39,6
+FN:25,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService::.cctor()
+FNDA:1,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService::.cctor()
+DA:26,1
+FN:45,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService/<GetTopLevelMenusAsync>d__6::MoveNext()
+FNDA:0,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService/<GetTopLevelMenusAsync>d__6::MoveNext()
+DA:46,0
+DA:47,0
+DA:49,0
+DA:50,0
+DA:53,0
+BRDA:49,82,0,0
+BRDA:49,82,1,0
+FN:58,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService/<GetTopLevelMenuByChannelAsync>d__7::MoveNext()
+FNDA:0,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService/<GetTopLevelMenuByChannelAsync>d__7::MoveNext()
+DA:59,0
+DA:60,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+DA:66,0
+DA:67,0
+DA:68,0
+DA:70,0
+DA:73,0
+DA:75,0
+DA:76,0
+BRDA:62,88,0,0
+BRDA:62,88,1,0
+BRDA:63,202,0,0
+BRDA:63,202,1,0
+FN:104,MenuMetadata.Models.Entities.TopLevelMenuGroup MenuMetadata.Service.Implementations.TopLevelMenuService/<>c::<CreateTopLevelMenuAsync>b__8_0(MenuMetadata.Service.Responses.TopLevelMenuGroupDto)
+FNDA:4,MenuMetadata.Models.Entities.TopLevelMenuGroup MenuMetadata.Service.Implementations.TopLevelMenuService/<>c::<CreateTopLevelMenuAsync>b__8_0(MenuMetadata.Service.Responses.TopLevelMenuGroupDto)
+DA:105,4
+DA:106,4
+DA:107,4
+DA:108,4
+DA:109,4
+FN:109,System.Int32 MenuMetadata.Service.Implementations.TopLevelMenuService/<>c::<CreateTopLevelMenuAsync>b__8_1(MenuMetadata.Models.Entities.TopLevelMenuGroup)
+FNDA:4,System.Int32 MenuMetadata.Service.Implementations.TopLevelMenuService/<>c::<CreateTopLevelMenuAsync>b__8_1(MenuMetadata.Models.Entities.TopLevelMenuGroup)
+DA:110,4
+FN:148,MenuMetadata.Models.Entities.TopLevelMenuGroup MenuMetadata.Service.Implementations.TopLevelMenuService/<>c::<UpdateTopLevelMenuAsync>b__9_0(MenuMetadata.Service.Responses.TopLevelMenuGroupDto)
+FNDA:0,MenuMetadata.Models.Entities.TopLevelMenuGroup MenuMetadata.Service.Implementations.TopLevelMenuService/<>c::<UpdateTopLevelMenuAsync>b__9_0(MenuMetadata.Service.Responses.TopLevelMenuGroupDto)
+DA:149,0
+DA:150,0
+DA:151,0
+DA:152,0
+DA:153,0
+FN:153,System.Int32 MenuMetadata.Service.Implementations.TopLevelMenuService/<>c::<UpdateTopLevelMenuAsync>b__9_1(MenuMetadata.Models.Entities.TopLevelMenuGroup)
+FNDA:0,System.Int32 MenuMetadata.Service.Implementations.TopLevelMenuService/<>c::<UpdateTopLevelMenuAsync>b__9_1(MenuMetadata.Models.Entities.TopLevelMenuGroup)
+DA:154,0
+FN:83,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService/<CreateTopLevelMenuAsync>d__8::MoveNext()
+FNDA:3,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService/<CreateTopLevelMenuAsync>d__8::MoveNext()
+DA:84,3
+DA:85,3
+DA:87,3
+DA:88,0
+DA:89,0
+DA:92,3
+DA:93,1
+DA:94,1
+DA:95,1
+DA:96,1
+DA:99,2
+DA:100,2
+DA:101,2
+DA:102,2
+DA:103,2
+DA:104,2
+DA:111,2
+DA:112,2
+DA:114,2
+DA:115,2
+DA:117,2
+DA:119,1
+DA:122,1
+DA:124,1
+DA:125,1
+BRDA:87,92,1,3
+BRDA:92,147,1,3
+BRDA:92,243,0,1
+BRDA:92,243,1,2
+BRDA:99,400,0,1
+BRDA:99,400,1,2
+BRDA:99,436,0,1
+BRDA:99,436,1,2
+BRDA:114,495,1,2
+BRDA:114,507,0,1
+BRDA:114,507,1,1
+BRDA:119,604,1,1
+BRDA:122,738,1,1
+FN:127,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService/<UpdateTopLevelMenuAsync>d__9::MoveNext()
+FNDA:1,System.Void MenuMetadata.Service.Implementations.TopLevelMenuService/<UpdateTopLevelMenuAsync>d__9::MoveNext()
+DA:128,1
+DA:129,1
+DA:130,1
+DA:131,1
+DA:132,1
+DA:133,1
+DA:134,1
+DA:137,0
+DA:138,0
+DA:139,0
+DA:140,0
+DA:141,0
+DA:142,0
+DA:145,0
+DA:146,0
+DA:147,0
+DA:148,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:158,0
+DA:160,0
+DA:161,0
+DA:163,0
+DA:164,0
+DA:167,0
+DA:169,0
+DA:170,0
+BRDA:129,89,1,1
+BRDA:130,203,0,1
+LF:111
+LH:63
+BRF:23
+BRH:17
+FNF:12
+FNH:7
+end_of_record
+SF:C:\git\chipotle\EnterpriseServices\MenuMetadataV1\MenuMetadata.Service\Helpers\AuditableEntityHelper.cs
+FN:8,System.Void MenuMetadata.Service.Helpers.AuditableEntityHelper::AddCreateAuditInfo(MenuMetadata.Models.Entities.IAuditableEntity,System.String)
+FNDA:4,System.Void MenuMetadata.Service.Helpers.AuditableEntityHelper::AddCreateAuditInfo(MenuMetadata.Models.Entities.IAuditableEntity,System.String)
+DA:9,4
+DA:10,4
+DA:12,4
+DA:13,4
+DA:14,4
+DA:15,4
+DA:16,4
+FN:18,System.Void MenuMetadata.Service.Helpers.AuditableEntityHelper::AddUpdateAuditInfo(MenuMetadata.Models.Entities.IAuditableEntity,MenuMetadata.Models.Entities.IAuditableEntity,System.String)
+FNDA:4,System.Void MenuMetadata.Service.Helpers.AuditableEntityHelper::AddUpdateAuditInfo(MenuMetadata.Models.Entities.IAuditableEntity,MenuMetadata.Models.Entities.IAuditableEntity,System.String)
+DA:19,4
+DA:20,4
+DA:21,4
+DA:22,4
+DA:23,4
+DA:24,4
+LF:13
+LH:13
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
